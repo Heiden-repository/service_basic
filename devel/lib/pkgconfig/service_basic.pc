@@ -1,0 +1,8 @@
+prefix=/home/heeseok/service.ws/devel
+
+Name: service_basic
+Description: Description of service_basic
+Version: 0.0.0
+Cflags: -I/home/heeseok/service.ws/devel/include
+Libs: -L/home/heeseok/service.ws/devel/lib 
+Requires: 

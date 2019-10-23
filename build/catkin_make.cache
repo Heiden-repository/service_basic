@@ -1,0 +1,2 @@
+service_basic
+-DCATKIN_DEVEL_PREFIX=/home/heeseok/service.ws/devel -DCMAKE_INSTALL_PREFIX=/home/heeseok/service.ws/install -G Unix Makefiles
